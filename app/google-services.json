@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843697332309",
+    "project_id": "bd-login-registration",
+    "storage_bucket": "bd-login-registration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843697332309:android:dc7fc3dae512fbd254b4dc",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMlgjVxvJaEVhnJetAYCNqA-3dDB-6Naw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,50 @@
+<resources>
+    <!--Login-->
+    <string name="app_name">Eco Nature</string>
+    <string name="message">💚 Protejamos la Naturaleza 💚</string>
+    <string name="Welcome">💚¡BIENVENIDO!✨🎉</string>
+    <string name="information">Inicia Seción con tus Datos</string>
+    <string name="app_email_hint">Correo Electrónico</string>
+    <string name="privacity_hint">Contraseña</string>
+    <string name="login_remember">Recuérdame</string>
+    <string name="password_reset">Olvidé mi Contraseña</string>
+    <string name="btn_login">Ingresar</string>
+    <string name="text_or_login_with">O Inicia Sesión Con</string>
+    <string name="Register_hint">Registrarme</string>
+
+    <!--Registro-->
+    <string name="messageone">Respira💚Protege💚Actúa</string>
+    <string name="Register">REGISTRO 📝✅</string>
+    <string name="register_with_your_data">Registrate con tus Datos</string>
+    <string name="name">Nombre</string>
+    <string name="Register_email_hint">Correo Electrónico</string>
+    <string name="Register_password">Contraseña</string>
+    <string name="Register_confirm_Password">Confirmar Contraseña</string>
+    <string name="Cell_Phone">Celular</string>
+    <string name="button_Register">Registrarme</string>
+    <string name="login">Iniciar Seción</string>
+
+    <!--Pantalla Olvide mi Contraseña-->
+    <string name="emailIngreser">Ingresa tu Correo 🦊</string>
+    <string name="passwordRecuperate">Recupera tu Contraseña</string>
+    <string name="retrieve">RECUPERAR</string>
+    <string name="messagetwo">💙Unidos por un mundo mejor💙</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Pantalla de Crear Usuario y view_user_single-->
+    <string name="CreateUser">CREAR USUARIO</string>
+    <string name="infoCreateUser">Crea tu Usuario</string>
+    <string name="NameCreateUser">Nombre</string>
+    <string name="AgeCreateUser">Edad</string>
+    <string name="CellCreateUser">Celular</string>
+    <string name="CityRecidency">Ciudad de Recidencia</string>
+    <string name="StationFavorite">Estación Favorita del Año</string>
+    <string name="ActivityNature">Actividad Favorita en la Naturaleza</string>
+    <string name="Create">CREAR</string>
+    <string name="VolverPagPrincipal">⬅️Volver a la Pagina Principal</string>
+
+    <!--Pantalla de Entrada-->
+    <string name="Logout">Cerrar Sesión</string>
+    <string name="Add">AGREGAR USUARIO</string>
+</resources>
